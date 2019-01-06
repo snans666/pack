@@ -3,7 +3,7 @@ title
 
 Examples:
 
-~~~~{.py}
+~~~~~~~~~~~~~{.py}
 def hello():
     pass
-~~~~
+~~~~~~~~~~~~~
