@@ -12,4 +12,5 @@ setup(name='pack',
       author_email='a@b.c',
       license='MIT',
       packages=['pack'],
+      dependency_links=['https://github.com/snans666/pack/blob/master/dist/pack-0.1-py3-none-any.whl'],
       zip_safe=False)
