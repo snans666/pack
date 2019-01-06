@@ -9,6 +9,7 @@ setup(name='pack',
       long_description=long_description,
       url='https://github.com/snans666/pack',
       author='snans666',
+      author_email='a@b.c',
       license='MIT',
       packages=['pack'],
       zip_safe=False)
